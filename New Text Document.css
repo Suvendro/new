@@ -1,0 +1,227 @@
+.Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 189;
+}
+.Small_Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 188;
+}
+.Mail {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 187;
+}
+.Mail {
+  font-size: 12px;
+  font-family: "HarmoniaSansProCyr";
+  color: rgb(52, 64, 75);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 209.938px;
+  top: 22.792px;
+  z-index: 185;
+}
+.Phone {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 183;
+}
+.Number {
+  font-size: 12px;
+  font-family: "HarmoniaSansProCyr";
+  color: rgb(52, 64, 75);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 340.937px;
+  top: 23.8px;
+  z-index: 181;
+}
+.Social {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 179;
+}
+.facebook {
+  background-color: rgb(52, 64, 75);
+  position: absolute;
+  left: 1257px;
+  top: 25px;
+  width: 6px;
+  height: 11px;
+  z-index: 178;
+}
+.twitter {
+  background-color: rgb(52, 64, 75);
+  position: absolute;
+  left: 1284px;
+  top: 25px;
+  width: 14px;
+  height: 11px;
+  z-index: 177;
+}
+.google__ {
+  background-color: rgb(52, 64, 75);
+  position: absolute;
+  left: 1314px;
+  top: 25px;
+  width: 14px;
+  height: 11px;
+  z-index: 176;
+}
+.instegram {
+  border-radius: 0px;
+  background-color: rgb(52, 64, 75);
+  position: absolute;
+  left: 1343px;
+  top: 25px;
+  width: 11px;
+  height: 11px;
+  z-index: 175;
+}
+.Bg {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 60px;
+  z-index: 173;
+}
+.Big_Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 171;
+}
+.Logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 170;
+}
+.Ellipse_1 {
+  background-color: rgb(255, 89, 18);
+  position: absolute;
+  left: 226px;
+  top: 102px;
+  width: 34px;
+  height: 17px;
+  z-index: 168;
+}
+.shope_any_where {
+  font-size: 17px;
+  font-family: "HarmoniaSansProCyr";
+  color: rgba(70, 80, 90, 0.8);
+  vertical-align: sub;
+  line-height: 1.765;
+  text-align: right;
+  position: absolute;
+  left: 185.076px;
+  top: 152.14px;
+  z-index: 167;
+}
+.SH_____PY {
+  font-size: 30px;
+  font-family: "TitilliumText22L";
+  color: rgb(52, 64, 75);
+  font-weight: bold;
+  line-height: 1.2;
+  position: absolute;
+  left: 183.263px;
+  top: 96.5px;
+  z-index: 166;
+}
+.Linkes {
+  font-size: 16px;
+  font-family: "HarmoniaSansProCyr";
+  color: rgb(255, 89, 18);
+  line-height: 1.2;
+  text-align: right;
+  -moz-transform: matrix( 1.00006425166091,0,0,1,0,0);
+  -webkit-transform: matrix( 1.00006425166091,0,0,1,0,0);
+  -ms-transform: matrix( 1.00006425166091,0,0,1,0,0);
+  position: absolute;
+  left: 406.153px;
+  top: 111.4px;
+  z-index: 164;
+}
+.Search {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 163;
+}
+.User {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 160;
+}
+.Cart {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1540px;
+  height: 2865px;
+  z-index: 157;
+}
+.Counter {
+  font-size: 10px;
+  font-family: "HarmoniaSansProCyr";
+  color: rgb(255, 255, 255);
+  line-height: 3;
+  text-align: center;
+  -moz-transform: matrix( 1.00006425166091,0,0,1,0,0);
+  -webkit-transform: matrix( 1.00006425166091,0,0,1,0,0);
+  -ms-transform: matrix( 1.00006425166091,0,0,1,0,0);
+  position: absolute;
+  left: 1339.074px;
+  top: 91.5px;
+  z-index: 156;
+}
+.Counter_Bg {
+  border-radius: 50%;
+  background-color: rgb(52, 64, 75);
+  position: absolute;
+  left: 1333px;
+  top: 98px;
+  width: 18px;
+  height: 18px;
+  z-index: 155;
+}
+.Bg {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 61px;
+  width: 1540px;
+  height: 120px;
+  z-index: 152;
+}

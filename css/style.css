@@ -306,10 +306,13 @@ input {
 }
 
 .a8 {
-    padding: 15px;
+    padding: 12px;
     border: 3px solid #F3EEEE;
     border-radius: 30px;
     margin-top: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
 }
 
 
